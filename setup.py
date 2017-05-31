@@ -1,7 +1,7 @@
 import sys
 from distutils.core import setup, Extension
 
-VERSION = '0.7.1'
+VERSION = '0.7.2'
 
 setup(
   name='dphoyes.libssh2',
